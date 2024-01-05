@@ -6,5 +6,5 @@ den Beans und wie die Beans `@Component` und `@Service` Funktionieren.
 Springboot ist ein Programm das es uns ermöglicht ähnlich wie Django. Eine Webapplikation zu Entwickeln die mittels Java geschrieben wurde.
 
 ## Verschiedene Beans
-`@Component` = Allgemeine Notation für eine Spring Komponente
+`@Component` = Allgemeine Notation für eine Spring Komponente <br>
 `@Service` = Diese Notation beeinhaltet meist die Logik
